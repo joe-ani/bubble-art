@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;
+    background: rgb(14, 14, 45);
+}
+
+.bubble {
+    position: absolute;
+    border-radius: 50%;
+    
+}
